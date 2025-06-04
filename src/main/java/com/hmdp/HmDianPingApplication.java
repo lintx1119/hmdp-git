@@ -11,6 +11,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 public class HmDianPingApplication {
 
     public static void main(String[] args) {
+        boolean testGit = true;
         SpringApplication.run(HmDianPingApplication.class, args);
     }
 
