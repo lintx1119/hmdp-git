@@ -6,6 +6,7 @@ package com.hmdp.entity;
  */
 public class Test {
     private String name;
+    private String dep;
 
     public String getName() {
         return name;
